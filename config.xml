@@ -9,4 +9,4 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
- <platform name="android"><preference name="android-minSdkVersion" value="21"></preference></platform></widget>
+ <platform name="android" /><preference name="phonegap-version" value="cli-5.4.1" /></widget>
